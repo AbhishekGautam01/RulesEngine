@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuleEnginePOC", "RuleEnginePOC.csproj", "{35444C15-6853-48E7-94B0-0132B42BF86A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuleEngine", "..\RuleEngine\RuleEngine.csproj", "{18769605-A55C-4F4C-89F2-0CADE2C05061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35444C15-6853-48E7-94B0-0132B42BF86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35444C15-6853-48E7-94B0-0132B42BF86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35444C15-6853-48E7-94B0-0132B42BF86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35444C15-6853-48E7-94B0-0132B42BF86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18769605-A55C-4F4C-89F2-0CADE2C05061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18769605-A55C-4F4C-89F2-0CADE2C05061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18769605-A55C-4F4C-89F2-0CADE2C05061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18769605-A55C-4F4C-89F2-0CADE2C05061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A0C8B11-A4C1-46B8-9FA1-B01895AA070F}
+	EndGlobalSection
+EndGlobal
